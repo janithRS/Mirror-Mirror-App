@@ -4,14 +4,10 @@
     <list default="true" id="febdaca1-a0c9-4b0b-9db2-15bf85037ccf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/css/paper-kit.css" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/assets/css/paper-kit.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/css/paper-kit.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/assets/css/paper-kit.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/css/paper-kit.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/assets/css/paper-kit.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/www/ecommerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/ecommerce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/scss/paper-kit/_examples.scss" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/assets/scss/paper-kit/_examples.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/browser/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/assets/css/paper-kit.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/assets/css/paper-kit.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/assets/css/paper-kit.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/www/assets/css/paper-kit.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/assets/css/paper-kit.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/assets/css/paper-kit.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/ecommerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/ecommerce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/scss/paper-kit/_examples.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/assets/scss/paper-kit/_examples.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1564504158343</updated>
       <workItem from="1564504160272" duration="2092000" />
-      <workItem from="1564507392890" duration="1814000" />
+      <workItem from="1564507392890" duration="8347000" />
     </task>
     <servers />
   </component>

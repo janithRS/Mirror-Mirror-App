@@ -9086,6 +9086,7 @@ video {
   color: #9A9A9A;
   margin-bottom: 5px;
   margin-top: 15px;
+  font-size: 0.9em;
 }
 
 .card img {
@@ -9310,6 +9311,7 @@ video {
 
 .card .card-body .card-title {
   margin: 5px 0 0 0;
+  font-size: 1.0em;
 }
 
 .card .card-body .card-category~.card-title {
@@ -9838,6 +9840,7 @@ video {
 .card-plain .card-body {
   padding-left: 5px;
   padding-right: 5px;
+  font-size: 0.8em;
 }
 
 .card-plain img {
