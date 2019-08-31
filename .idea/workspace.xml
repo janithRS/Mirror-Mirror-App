@@ -3,29 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="febdaca1-a0c9-4b0b-9db2-15bf85037ccf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/browser.json" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/browser.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/browser/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/css/paper-kit.css" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/assets/css/paper-kit.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/css/paper-kit.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/assets/css/paper-kit.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/css/paper-kit.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/assets/css/paper-kit.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/scss/paper-kit/_misc.scss" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/assets/scss/paper-kit/_misc.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/scss/paper-kit/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/assets/scss/paper-kit/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/browser/www/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/www/ecommerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/ecommerce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/css/fonts/MavenPro-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/css/fonts/MavenPro-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/css/fonts/MavenPro-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/css/fonts/MavenPro-Regular.ttf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/browser/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/www/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/index1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/www/pages/search-with-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/pages/search-with-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/assets/css/paper-kit.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/assets/css/paper-kit.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/assets/css/paper-kit.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/www/assets/css/paper-kit.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/assets/css/paper-kit.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/assets/css/paper-kit.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/assets/scss/paper-kit/_misc.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/assets/scss/paper-kit/_misc.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/assets/scss/paper-kit/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/assets/scss/paper-kit/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/ecommerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/ecommerce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/fonts/MavenPro-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/fonts/MavenPro-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/fonts/MavenPro-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/fonts/MavenPro-Regular.ttf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/pages/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/pages/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages/contact-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/pages/search-with-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages/search-with-sidebar.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +43,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -87,7 +78,7 @@
       <workItem from="1564569053452" duration="2557000" />
       <workItem from="1565610168535" duration="3500000" />
       <workItem from="1567220388692" duration="5927000" />
-      <workItem from="1567231282345" duration="1912000" />
+      <workItem from="1567231282345" duration="3324000" />
     </task>
     <servers />
   </component>
