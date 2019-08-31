@@ -365,8 +365,7 @@ var navbarHeight = 0;
 
 demo = {
   initContactUsMap: function() {
-
-    var myLatlng = new google.maps.LatLng(44.445248, 26.099672);
+    var myLatlng = new google.maps.LatLng(6.871103, 79.895381);
     var mapOptions = {
       zoom: 14,
       center: myLatlng,

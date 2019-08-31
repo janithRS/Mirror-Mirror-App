@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="febdaca1-a0c9-4b0b-9db2-15bf85037ccf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/www/pages/about-us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/pages/contact-us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/pages/search-with-sidebar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/css/paper-kit.css" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/assets/css/paper-kit.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/scss/paper-kit/_examples.scss" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/assets/scss/paper-kit/_examples.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/browser/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/assets/css/paper-kit.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/assets/css/paper-kit.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/js/paper-kit.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/assets/js/paper-kit.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/assets/scss/paper-kit/_examples.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/assets/scss/paper-kit/_examples.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
     </list>
@@ -32,10 +36,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/www/assets/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PhoneGap\TestApp1\www\assets\img" />
+      <recent name="E:\PhoneGap\TestApp1\www\pages" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -60,7 +70,10 @@
       <option name="presentableId" value="Default" />
       <updated>1564504158343</updated>
       <workItem from="1564504160272" duration="2092000" />
-      <workItem from="1564507392890" duration="8347000" />
+      <workItem from="1564507392890" duration="10861000" />
+      <workItem from="1564569053452" duration="2557000" />
+      <workItem from="1565610168535" duration="3500000" />
+      <workItem from="1567220388692" duration="5927000" />
     </task>
     <servers />
   </component>
@@ -72,7 +85,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
