@@ -3,19 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="febdaca1-a0c9-4b0b-9db2-15bf85037ccf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/www/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/www/css/fonts/MavenPro-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/www/css/fonts/MavenPro-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/www/css/fonts/MavenPro-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/www/css/fonts/MavenPro-Regular.ttf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/browser/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/css/fonts/MavenPro-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/css/fonts/MavenPro-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/css/fonts/MavenPro-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/css/fonts/MavenPro-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/pages/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/pages/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/pages/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/pages/contact-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/pages/search-with-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/pages/search-with-sidebar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/pages/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/pages/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages/contact-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/pages/search-with-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages/search-with-sidebar.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +34,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/www/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -47,6 +42,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PhoneGap\phonegaptest1\www\img" />
       <recent name="E:\PhoneGap\TestApp1\www\assets\img" />
       <recent name="E:\PhoneGap\TestApp1\www\pages" />
     </key>
@@ -78,7 +74,7 @@
       <workItem from="1564569053452" duration="2557000" />
       <workItem from="1565610168535" duration="3500000" />
       <workItem from="1567220388692" duration="5927000" />
-      <workItem from="1567231282345" duration="3324000" />
+      <workItem from="1567231282345" duration="5640000" />
     </task>
     <servers />
   </component>
