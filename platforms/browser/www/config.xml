@@ -10,8 +10,8 @@
     <description>
         Upgraded version of Mirror Mirror app
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="janithravindu@gmail.com" href="http://lifeofjanith.wordpress.com">
+        Janith Silva
     </author>
     <content src="index.html" />
     <access origin="*" />
