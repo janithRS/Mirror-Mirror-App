@@ -8831,7 +8831,7 @@ textarea.form-control {
   background-position: center center;
   background-size: cover;
   min-height: 500px;
-  max-height: 500px;
+  max-height: 600px;
   overflow: hidden;
   position: relative;
   width: 100%;
