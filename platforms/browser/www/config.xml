@@ -6,7 +6,7 @@
     <feature name="Device">
         <param name="browser-package" value="Device" />
     </feature>
-    <name>New Mirror</name>
+    <name>New Mirror Mirror</name>
     <description>
         Upgraded version of Mirror Mirror app
     </description>
