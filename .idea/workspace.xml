@@ -2,16 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="febdaca1-a0c9-4b0b-9db2-15bf85037ccf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/img/categories/diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/img/categories/dress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/img/categories/shirt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/img/categories/shoe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/img/categories/watches.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TestApp1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TestApp1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/css/paper-kit.css" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/assets/css/paper-kit.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/www/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/scss/paper-kit/_examples.scss" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/assets/scss/paper-kit/_examples.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/ecommerce.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/browser/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/index1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/pages/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/pages/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/pages/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/pages/contact-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/browser/www/pages/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/pages/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/pages/product-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/pages/product-page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/browser/www/pages/register-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/pages/register-page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/assets/css/paper-kit.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/assets/css/paper-kit.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/scss/paper-kit/_examples.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/assets/scss/paper-kit/_examples.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/ecommerce.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/index1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/pages/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/pages/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages/contact-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/pages/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/pages/product-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages/product-page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/pages/register-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages/register-page.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +42,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -46,11 +66,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PhoneGap\phonegaptest1\www\assets\js" />
+      <recent name="E:\PhoneGap\phonegaptest1\www\assets\img\categories" />
       <recent name="E:\PhoneGap\phonegaptest1\www\pages" />
       <recent name="E:\PhoneGap\phonegaptest1\www\img\sections" />
       <recent name="E:\PhoneGap\phonegaptest1\www" />
-      <recent name="E:\PhoneGap\phonegaptest1\www\img" />
-      <recent name="E:\PhoneGap\TestApp1\www\assets\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -81,7 +101,10 @@
       <workItem from="1565610168535" duration="3500000" />
       <workItem from="1567220388692" duration="5927000" />
       <workItem from="1567231282345" duration="26386000" />
-      <workItem from="1567835928405" duration="6562000" />
+      <workItem from="1567835928405" duration="7223000" />
+      <workItem from="1567940681369" duration="1093000" />
+      <workItem from="1568439359280" duration="4095000" />
+      <workItem from="1568465681940" duration="16179000" />
     </task>
     <servers />
   </component>

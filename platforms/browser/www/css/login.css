@@ -26,8 +26,13 @@ body {
     margin: auto;
 }
 
+.sign-container {
+    padding-top: 50px;
+}
+
 .signin-body {
     background-image: url("../img/sections/soroush-karimi.jpg");
+    background-position: center center;
 }
 
 .register-body {
