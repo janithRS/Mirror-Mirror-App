@@ -2,25 +2,107 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="febdaca1-a0c9-4b0b-9db2-15bf85037ccf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/www/css/payment.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/pages/payment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/js/data.mustache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/css/paper-kit.css" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/assets/css/paper-kit.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/www/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/img/ecommerce/balmain_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/img/ecommerce/balmain_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/img/ecommerce/balmain_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/img/ecommerce/balmain_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/img/ecommerce/balmain_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/img/ecommerce/balmain_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/img/ecommerce/balmain_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/img/ecommerce/balmain_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/img/ecommerce/balmain_campaign_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/img/ecommerce/balmain_campaign_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/img/ecommerce/balmain_campaign_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/img/ecommerce/balmain_runway.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/js/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/bling.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/boots.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/built_on_glass.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/chet_faker_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/chet_faker_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/creative-tim-white-slim2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/drake.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/farid-askerov.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/flume.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/guy-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/image_placeholder.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/jacket-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/jacket-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/jacket-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/jacket-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/khaled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/khaled_tweet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/mask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/new_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/placeholder.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/ricky_ross.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/rihanna.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/rihanna_cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/rihanna_tweet.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/tim_vector.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/video-placeholder.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/browser/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/browser/www/pages/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/pages/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/pages/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/pages/cart.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/browser/www/pages/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/pages/contact-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/browser/www/pages/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/pages/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/pages/payment.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/pages/payment.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/browser/www/pages/product-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/pages/product-page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/browser/www/pages/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/pages/products.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/browser/www/pages/register-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/pages/register-page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/browser/www/pages/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/pages/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/assets/css/paper-kit.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/assets/css/paper-kit.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/img/ecommerce/balmain_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/img/ecommerce/balmain_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/img/ecommerce/balmain_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/img/ecommerce/balmain_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/img/ecommerce/balmain_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/img/ecommerce/balmain_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/img/ecommerce/balmain_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/img/ecommerce/balmain_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/img/ecommerce/balmain_campaign_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/img/ecommerce/balmain_campaign_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/img/ecommerce/balmain_campaign_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/img/ecommerce/balmain_runway.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/js/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/bling.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/boots.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/built_on_glass.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/chet_faker_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/chet_faker_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/creative-tim-white-slim2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/drake.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/farid-askerov.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/flume.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/guy-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/image_placeholder.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/jacket-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/jacket-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/jacket-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/jacket-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/khaled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/khaled_tweet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/mask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/new_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/placeholder.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/ricky_ross.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/rihanna.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/rihanna_cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/rihanna_tweet.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/tim_vector.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/video-placeholder.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/pages/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/pages/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages/cart.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/pages/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages/contact-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/pages/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/pages/payment.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages/payment.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/pages/product-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages/product-page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/pages/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages/products.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/pages/register-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages/register-page.html" afterDir="false" />
@@ -98,7 +180,7 @@
       <workItem from="1567940681369" duration="1093000" />
       <workItem from="1568439359280" duration="4095000" />
       <workItem from="1568465681940" duration="16440000" />
-      <workItem from="1568514920295" duration="11428000" />
+      <workItem from="1568514920295" duration="16174000" />
     </task>
     <servers />
   </component>

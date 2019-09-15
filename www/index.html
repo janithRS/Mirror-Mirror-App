@@ -72,7 +72,7 @@
 </nav>
 <!-- End Navbar -->
 <div class="page-header"
-     style="background-image: url('./assets/img/ecommerce/balmain_runway.jpg'); max-height: 300px!important;">
+     style="background-image: url('img/ecommerce/balmain_runway.jpg'); max-height: 300px!important;">
     <div class="filter"></div>
     <div class="content-center">
         <div class="container text-center">
@@ -213,7 +213,7 @@
 <script>
     $.ajax({
         type: 'get',
-        url: 'assets/js/data.json',
+        url: 'assets/js/data.mustache.json',
         dataType: 'json',
         success: function (addData) {
             let newData = addData.slice(0, 4);

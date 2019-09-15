@@ -1,0 +1,156 @@
+[
+  {
+    "id": "001",
+    "title": "Necklace",
+    "img": "img/ecommerce/Jewelry1.jpg",
+    "description": "Fashion gold stainless steel jewelry",
+    "tPrice": "2900",
+    "nPrice": "4000",
+    "cat": "jew"
+  },
+  {
+    "id": "002",
+    "title": "Maxi dress",
+    "img": "img/ecommerce/Dress1.jpg",
+    "description": "Black cotton",
+    "tPrice": "6556",
+    "nPrice": "325",
+    "cat": "dress"
+  },
+  {
+    "id": "003",
+    "title": "NIKE WMMS Genicco",
+    "img": "img/ecommerce/Shoe1.jpg",
+    "description": "sneakers shoes for women's running/gym",
+    "tPrice": "4324",
+    "nPrice": "8568",
+    "cat": "shoes"
+  },
+  {
+    "id": "004",
+    "title": "NEOYOWO men's T-shirt",
+    "img": "img/ecommerce/Shirt2.jpg",
+    "description": "casual slim fit long sleeves",
+    "tPrice": "4324",
+    "nPrice": "8568",
+    "cat": "shirt"
+  },
+  {
+    "id": "005",
+    "title": "Yingqible men's casual",
+    "img": "img/ecommerce/Shirt3.jpg",
+    "description": "long sleeve tee regular solid colour",
+    "tPrice": "2900",
+    "nPrice": "4000",
+    "cat": "shirt"
+  },
+  {
+    "id": "006",
+    "title": "KEPKGO gold",
+    "img": "img/ecommerce/Jewelry2.jpg",
+    "description": "Personalized engraved bangle",
+    "tPrice": "2900",
+    "nPrice": "4000",
+    "cat": "jew"
+  },
+  {
+    "id": "007",
+    "title": "SEIKO Watch SSB177P1",
+    "img": "img/ecommerce/Watch1.jpg",
+    "description": "Men Navy Textured Chronograph Dial Watch SSB177P1",
+    "tPrice": "2900",
+    "nPrice": "4000",
+    "cat": "watch"
+  },
+  {
+    "id": "008",
+    "title": "Fossil Watch FS4795I",
+    "img": "img/ecommerce/Watch2.jpg",
+    "description": "Men Silver-Toned Factory Service Analogue Watch FS4795I",
+    "tPrice": "2900",
+    "nPrice": "4000",
+    "cat": "watch"
+  },
+  {
+    "id": "009",
+    "title": "Nike",
+    "img": "img/ecommerce/Shoe2.jpg",
+    "description": "Women Grey CITY TRAINER 2 Training or Gym Shoes",
+    "tPrice": "2900",
+    "nPrice": "4000",
+    "cat": "shoes"
+  },
+  {
+    "id": "010",
+    "title": "Rubans",
+    "img": "img/ecommerce/Jewelry2.jpg",
+    "description": "Silver-Toned & White Handcrafted Circular Drop Earrings",
+    "tPrice": "2900",
+    "nPrice": "4000",
+    "cat": "jew"
+  },
+  {
+    "id": "011",
+    "title": "Roadster",
+    "img": "img/ecommerce/Shirt1.jpg",
+    "description": "Women Olive Green Regular Fit Camouflage Print Casual Shirt",
+    "tPrice": "2900",
+    "nPrice": "4000",
+    "cat": "shirt"
+  },
+  {
+    "id": "012",
+    "title": "Nike",
+    "img": "img/ecommerce/Shoe3.jpg",
+    "description": "Unisex Red PHANTOM VENOM CLUB IC Football Shoes",
+    "tPrice": "2900",
+    "nPrice": "4000",
+    "cat": "Shoes"
+  },
+  {
+    "id": "013",
+    "title": "Reebok",
+    "img": "img/ecommerce/Shoe4.jpg",
+    "description": "Women Black PRINT RUN 3.0 Running Shoes",
+    "tPrice": "2900",
+    "nPrice": "4000",
+    "cat": "Shoes"
+  },
+  {
+    "id": "014",
+    "title": "Tanishq",
+    "img": "img/ecommerce/Jewelry3.jpg",
+    "description": "14-Karat Gold Precious Pendant with Diamonds",
+    "tPrice": "2900",
+    "nPrice": "4000",
+    "cat": "jew"
+  },
+  {
+    "id": "015",
+    "title": "MABISH by Sonal Jain",
+    "img": "img/ecommerce/Dress2.jpg",
+    "description": "Women Red Solid Fit and Flare Dress",
+    "tPrice": "6556",
+    "nPrice": "325",
+    "cat": "dress"
+  },
+  {
+    "id": "016",
+    "title": "MISH",
+    "img": "img/ecommerce/Dress3.jpg",
+    "description": "Women Peach-Coloured & Blue Printed A-Line Dress",
+    "tPrice": "6556",
+    "nPrice": "325",
+    "cat": "dress"
+  },
+  {
+    "id": "017",
+    "title": "Color Cocktail",
+    "img": "img/ecommerce/Dress4.jpg",
+    "description": "Women Navy Blue Striped Fit and Flare Dress",
+    "tPrice": "6556",
+    "nPrice": "325",
+    "cat": "dress"
+  }
+]
+

@@ -21,7 +21,7 @@
 
 <body class="product-page sidebar-collapse">
 <!-- Navbar -->
-<nav class="navbar navbar-expand-lg fixed-top nav-down navbar-transparent" color-on-scroll="200">
+<nav class="navbar navbar-expand-lg fixed-top nav-down navbar-transparent" color-on-scroll="100">
     <div class="container">
         <div class="navbar-translate">
             <a class="navbar-brand" href="../index.html" rel="tooltip"
@@ -50,17 +50,16 @@
                         <i class="nc-icon nc-glasses-2"></i>&nbsp Search</a>
                 </li>
                 <div class="container">
-                    <li class="nav-item">
-                        <a class="btn btn-round btn-dark btn-center btn-lg" href="pages/cart.html">
-                            <i class="nc-icon nc-cart-simple"></i> Cart
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="btn btn-round btn-danger btn-lg" href="index.html">
-                            <i class="nc-icon nc-cart-simple"></i> Shop
-                        </a>
-                    </li>
-
+                        <li class="nav-item">
+                            <a class="btn btn-round btn-dark btn-center btn-lg" href="../pages/cart.html">
+                                <i class="nc-icon nc-cart-simple"></i> Cart
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="btn btn-round btn-danger btn-lg" href="../index.html">
+                                <i class="nc-icon nc-cart-simple"></i> Shop
+                            </a>
+                        </li>
                 </div>
 
             </ul>
@@ -138,7 +137,7 @@
                     <hr/>
                     <div class="row">
                         <div class="col-md-7 offset-md-5 col-sm-8">
-                            <button class="btn btn-danger btn-block btn-round">Add to Cart &nbsp;<i
+                            <button onclick="alert('Item was added to cart')" class="btn btn-danger btn-block btn-round">Add to Cart &nbsp;<i
                                     class="fa fa-chevron-right"></i></button>
                         </div>
                     </div>
@@ -254,7 +253,7 @@
 
     $.ajax({
         type: 'get',
-        url: '../assets/js/data.json',
+        url: '../assets/js/data.mustache.json',
         dataType: 'json',
         success: function (addData) {
             for(let i = 0; i < addData.length; i++) {
