@@ -12615,6 +12615,7 @@ a.pswp__share--download:hover {
 
 .search-page .section-search {
   min-height: 100vh;
+  padding-top: 60px !important;
 }
 
 .search-page .addon-xtreme {

@@ -20,6 +20,7 @@ body {
     margin: auto;
 }
 
+
 .form-signin-bottom {
     max-width: 330px;
     padding: 5px;
@@ -58,6 +59,10 @@ body {
     margin-top: 5px;
 }
 .form-signin input[type="password"] {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.form-signin input[type="number"] {
     margin-bottom: 5px;
     margin-top: 5px;
 }

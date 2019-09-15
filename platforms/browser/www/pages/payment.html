@@ -67,33 +67,32 @@
     </div>
 </nav>
 <!-- End Navbar -->
-<div class="container sign-container">
+<div class="container">
     <div class="row">
-        <form class="form-signin form-register">
-            <h1 class="h3 mb-3 text-light">Please Register</h1>
-            <label for="inputEmail" class="sr-only">Email address</label>
-            <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
+        <form class="form-signin">
+            <h1 class="h3 mb-3 text-light">PAYMENT</h1>
+            <div class="row" style="margin-bottom: 10px">
+                <div class="col-9">
+                    <label for="inputCard" class="sr-only">Card Number</label>
+                    <input type="text" id="inputCard" class="form-control" placeholder="Card Number" required autofocus>
+                </div>
+                <div class="col-3"><label for="inputCVC" class="sr-only">CVC</label>
+                    <input type="text" id="inputCVC" class="form-control" placeholder="CVC" required autofocus></div>
+            </div>
 
-            <label for="inputPassword" class="sr-only">Password</label>
-            <input type="password" id="inputPassword" class="form-control" placeholder="Password" required>
+            <hr>
+            <label  class="sr-only">Name</label>
+            <input type="text" id="name" class="form-control" placeholder="Name" required autofocus>
 
-            <label for="inputPasswordAgain" class="sr-only">Re-enter Password</label>
-            <input type="password" id="inputPasswordAgain" class="form-control" placeholder="Re-enter Password"
+            <label  class="sr-only">Address</label>
+            <input type="number" id="address" class="form-control" placeholder="Address" required>
+
+            <label class="sr-only">Phone</label>
+            <input type="number" id="inputPasswordAgain" class="form-control" placeholder="Phone"
                    required>
 
-            <button class="btn btn-lg btn-round btn-danger btn-block" type="submit">Register</button>
+            <button class="btn btn-lg btn-round btn-danger btn-block" type="submit">Confirm</button>
         </form>
-    </div>
-    <div class="row">
-        <div class="form-signin-bottom">
-            <h4 class="h4 mb-3 text-light">OR</h4>
-            <a href="login.html">
-                <button class="btn btn-lg btn-outline-danger btn-round btn-block" type="submit">already have an
-                    account
-                </button>
-            </a>
-            <p class="mt-5 mb-3 text-light">&copy; Mirror Mirror 2019</p>
-        </div>
     </div>
 </div>
 </body>
